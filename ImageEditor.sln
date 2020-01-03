@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageEditor", "ImageEditor\ImageEditor.csproj", "{31373E57-E7BB-4D2E-A3D4-0241B6C3489C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginFramework", "PluginFramework\PluginFramework.csproj", "{2FEAF026-B568-44FC-964E-2A48B35CA6CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlipImage", "FlipImage\FlipImage.csproj", "{C29E31AE-78E3-4186-B6CD-ADBA0E3B09E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeColors", "MakeColors\MakeColors.csproj", "{C3162AF0-6384-48BA-A816-17678C5CC54B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31373E57-E7BB-4D2E-A3D4-0241B6C3489C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31373E57-E7BB-4D2E-A3D4-0241B6C3489C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31373E57-E7BB-4D2E-A3D4-0241B6C3489C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31373E57-E7BB-4D2E-A3D4-0241B6C3489C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FEAF026-B568-44FC-964E-2A48B35CA6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FEAF026-B568-44FC-964E-2A48B35CA6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FEAF026-B568-44FC-964E-2A48B35CA6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FEAF026-B568-44FC-964E-2A48B35CA6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C29E31AE-78E3-4186-B6CD-ADBA0E3B09E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C29E31AE-78E3-4186-B6CD-ADBA0E3B09E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C29E31AE-78E3-4186-B6CD-ADBA0E3B09E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C29E31AE-78E3-4186-B6CD-ADBA0E3B09E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3162AF0-6384-48BA-A816-17678C5CC54B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3162AF0-6384-48BA-A816-17678C5CC54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3162AF0-6384-48BA-A816-17678C5CC54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3162AF0-6384-48BA-A816-17678C5CC54B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {995E6F28-81D1-410D-BA7A-A09790437623}
+	EndGlobalSection
+EndGlobal
